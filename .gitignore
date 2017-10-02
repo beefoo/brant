@@ -1,2 +1,4 @@
 *.edf
 *.pyc
+output/*
+!output/.keep
